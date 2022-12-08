@@ -1,6 +1,6 @@
 # ♟ Iamqaasim
 
-**'Software Enigineer and Data Scientist'**
+**'Data Scientist & Software Enigineer'**
 
 Here are some ideas to get you started:
 
