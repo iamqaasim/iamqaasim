@@ -24,7 +24,7 @@ i'm a Data Scientist and Software Engineer, building my version of the digital w
 
 ### 🔢 Stats
 
-<img align="left" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamqaasim&show_icons=true&locale=en&layout=compact" alt="iamqaasim" />
+<img align="left" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamqaasim&show_icons=true&locale=en&theme=city_lights" alt="iamqaasim" />
 
 ![Iamqaasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamqaasim&show_icons=true&theme=city_lights)
 
