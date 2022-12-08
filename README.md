@@ -5,7 +5,7 @@
 Hello World!!! 👋
 i'm a Data Scientist and Software Engineer, building my version of the digital world one program at a time. All coding projects are built from the ground up, from planning and testing all the way to solving real-world problems with my code. My passion for creating and analysing lead me to where I am now and hopefully it will progress me towards the field of Machine Learining and Artificial Intelligence.
 
----
+#
 
 ### 👩‍💻 Languages and Tools
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -28,3 +28,9 @@ i'm a Data Scientist and Software Engineer, building my version of the digital w
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
+
+<details>
+ <summary><h3>👨‍💻 iamqaasim's Coding Journey</h3></summary>
+   I started my coding journey as a naive science student with a passion to learn everything I could about this world of science and technology - code, unix, linux, math, stats, theory. As a high schooler my plan was to become an Engineer but interest lead me towards Data Science instead. Althought I do enjoy the field I always felt like there was something missing. During my final year of univerity I figured I start teaching myself programming through YouTube videos. During this time it reignited my passion for creating things so I started looking for online courses and programs. I came across a Software Engineering year program by ALX, its a program deddicated to people around Africa. After joining this program I've learnt so much with regards to how a computer works, the logic used to create programs, team work as well as understanding the full spectrum of programming. This program really excelled my long term goal of becoming a AI Software Engineer.
+  
+ more updates coming soon.. 
