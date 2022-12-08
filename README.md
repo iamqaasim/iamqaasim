@@ -20,11 +20,11 @@ i'm a Data Scientist and Software Engineer, building my version of the digital w
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-<img align="left" width="30px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamqaasim&show_icons=true&locale=en&layout=compact" alt="iamqaasim" />
-
 # 
 
 ### 🔢 Stats
+
+<img align="left" width="100px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamqaasim&show_icons=true&locale=en&layout=compact" alt="iamqaasim" />
 
 ![Iamqaasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamqaasim&show_icons=true&theme=city_lights)
 
