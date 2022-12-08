@@ -1,7 +1,6 @@
-# 🤓 Iamqaasim
+# ♟ Iamqaasim
 
-<!--
-**iamqaasim/iamqaasim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Software Enigineer and Data Scientist **
 
 Here are some ideas to get you started:
 
