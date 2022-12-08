@@ -18,7 +18,7 @@ i'm a Data Scientist and Software Engineer, building my version of the digital w
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn2.iconfinder.com%2Fdata%2Ficons%2Fline-design-database-set-4%2F21%2Fsql-badge-512.png&imgrefurl=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F2334722%2Fbadge_language_line_logo_query_sql_structured_icon&tbnid=kD39ANCrMlGOxM&vet=12ahUKEwjhgvKl_er7AhUUhxoKHfy8ALEQMygmegUIARD0AQ..i&docid=uPVZwxczyG8_aM&w=512&h=512&itg=1&q=SQL&hl=en&ved=2ahUKEwjhgvKl_er7AhUUhxoKHfy8ALEQMygmegUIARD0AQ)" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
 <br />
 
 # 
