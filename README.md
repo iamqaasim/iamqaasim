@@ -8,7 +8,7 @@ i'm a Data Scientist and Software Engineer, building my version of the digital w
 
 #
 
-### 👩‍💻 Languages and Tools
+### 🛠 Languages and Tools
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -24,7 +24,7 @@ i'm a Data Scientist and Software Engineer, building my version of the digital w
                         
 # 
 
-### 🔢 Stats
+### 📊 Stats
 
 <img align="left" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamqaasim&show_icons=true&locale=en&theme=city_lights&layout=compact" alt="iamqaasim" />
 
