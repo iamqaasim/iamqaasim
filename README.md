@@ -23,7 +23,7 @@ i'm a Data Scientist and Software Engineer, building my version of the digital w
 
 ### 🔢 Stats
 
-![Iamqaasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamqaasim&show_icons=true&theme=vue-dark)
+![Iamqaasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamqaasim&show_icons=true&theme=city_lights)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
