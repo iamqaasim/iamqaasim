@@ -47,8 +47,8 @@ i'm a Data Scientist and Software Engineer, building my version of the digital w
   
   <br />
   
-  In pursuit of this new found interests I realised that the thing I was missing was having an outlet for my creative side. Within a few weeks I used python skills to help me in my studies, which improved my marks exponentially. After which I was so eager to learn more that I considered pursuing a 2nd degree in Computer Science or Robotics,but then I came across an online Software Engineering programe. It was a free year program which I thought was a good idea to do part time while I work. I applied and got accepted the same day. 
+  In pursuit of this new found interests I realised that the thing I was missing was having an outlet for my creative side. Within a few weeks I used python skills to help me in my studies, which improved my marks exponentially. After which I was so eager to learn more that I considered pursuing a 2nd degree in Computer Science or Robotics, but then I came across an online Software Engineering programe. It was a free year program which I thought was a good idea to do part time while I work. I applied and got accepted the same day. 
   
   <br />
   
-  After joining this program I've learnt so much about the application of programing, how computers work, the infrastructure behind the internet and much more. I intend to continue my journy forward in hopes to push towards the field of ML and AI development.
+  After joining this program I've learnt so much about how to write code, the application of programing, how computers work, the infrastructure behind the internet and much more. I intend to continue my journy forward in hopes to push towards the field of ML and AI development.
