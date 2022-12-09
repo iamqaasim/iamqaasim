@@ -41,6 +41,7 @@ i'm a Data Scientist and Software Engineer, building my version of the digital w
   At a young age I had a curious mind, I enjoyed building and creating things. My dream was to become an 'inventor'. This later matured into a passion for  Science, Technology. Initially I wanted to become an engineer of some sort, because its the closest thing to being an inventor. However my circumstances lead me towards pursuing a degree in Data Sciene instead. Althought analysing data is an insterest of mine I felt like there was something missing.
   
   <br />
+  <br />
   
   During the end of my degree the pandemic hit and I was stuck at home, with lots of free time. So instead of sitting around doing nothing I decided to teach myself coding, but as a complete stranger to programing I had no clue where to start. I talked to some of my Computer Science friends and I ended up learning python through YouTube videos and free online courses. Ater which I picked up a secondary interest in machine Learning (ML) as as Artificial intelligence (AI).
   
