@@ -41,7 +41,16 @@ i'm a Data Scientist and Software Engineer, building my version of the digital w
   At a young age I had a curious mind, I enjoyed building and creating things. My dream was to become an 'inventor'. This later matured into a passion for  Science, Technology. Initially I wanted to become an engineer of some sort, because its the closest thing to being an inventor. However my circumstances lead me towards pursuing a degree in Data Sciene instead. Althought analysing data is an insterest of mine I felt like there was something missing.
   
 <br />
+<br />
   
-  During the end of my degree the pandemic hit and I was stuck at home with lots of free time so instead of sitting around doing nothing I decided to teach myself coding. I started learning python and over time I realsied that the thing i felt was missing in my life was my creative side.
+  During the end of my degree the pandemic hit and I was stuck at home, with lots of free time. So instead of sitting around doing nothing I decided to teach myself coding, but as a complete stranger to programing I had no clue where to start. I talked to some of my Computer Science friends and I ended up learning python through YouTube videos and free online courses. Ater which I picked up a secondary interest in machine Learning (ML) as as Artificial intelligence (AI)
   
-  I started my coding journey as a naive science student with a passion to learn everything I could about this world of science and technology - code, unix, linux, theory. As a high schooler my plan was to become an Engineer but interest lead me towards Data Science instead. Althought I do enjoy the field I always felt like there was something missing. During my final year of univerity I figured I start teaching myself programming through YouTube videos. During this time it reignited my passion for creating things so I started looking for online courses and programs. I came across a year program for Software Engineering by ALX - its a program deddicated to people around Africa. After joining this program I've learnt so much with regards to how a computer works, the logic used to create programs, team work as well as understanding the full spectrum of programming. This program really excelled my long term goal of becoming a AI Software Engineer.
+<br />
+<br /> 
+  
+  In pursuit of this new found interests I realised that the thing I was missing was having an outlet for my creative side. Within a few weeks I used python skills to help me in my studies, which improved my marks exponentially. After which I was so eager to learn more that I considered pursuing a 2nd degree in Computer Science or Robotics,but then I came across an online Software Engineering programe. It was a free year program which I thought was a good idea to do part time while I work. I applied and got accepted the same day. 
+  
+<br />
+<br />  
+  
+  After joining this program I've learnt so much about the application of programing, how computers work, the infrastructure behind the internet and much more. I intend to continue my journy forward in hopes to push towards the field of ML and AI development.
