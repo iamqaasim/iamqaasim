@@ -42,7 +42,7 @@ i'm a Data Scientist and Software Engineer, building my version of the digital w
   
 <br />
   
-  During the end of my degree the pandemic hit and I was stuck at home, with lots of free time. So instead of sitting around doing nothing I decided to teach myself coding, but as a complete stranger to programing I had no clue where to start. I talked to some of my Computer Science friends and I ended up learning python through YouTube videos and free online courses. Ater which I picked up a secondary interest in machine Learning (ML) as as Artificial intelligence (AI)
+  During the end of my degree the pandemic hit and I was stuck at home, with lots of free time. So instead of sitting around doing nothing I decided to teach myself coding, but as a complete stranger to programing I had no clue where to start. I talked to some of my Computer Science friends and I ended up learning python through YouTube videos and free online courses. Ater which I picked up a secondary interest in machine Learning (ML) as as Artificial intelligence (AI).
   
 <br />
   
