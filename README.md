@@ -4,7 +4,7 @@
 
 Hello World!!! 👋 
 
-i'm a Data Scientist and Software Engineer, building my version of the digital world one program at a time. All coding projects are built from the ground up, from planning and testing all the way to solving real-world problems with code. My passion for creating and analysing lead me to where I am now and hopefully it will progress me closer towards the field of Machine Learining and Artificial Intelligence.
+I'm a Data Scientist and Software Engineer, building my version of the digital world one program at a time. All coding projects are built from the ground up, from planning and testing all the way to solving real-world problems with code. My passion for creating and analysing lead me to where I am now and hopefully it will progress me closer towards the field of Machine Learining and Artificial Intelligence.
 
 #
 
