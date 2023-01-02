@@ -29,6 +29,8 @@ I'm a Data Scientist and Software Engineer, building my version of the digital w
 <img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" />
 <img align="left" alt="Puppet" width="30px" style="padding-right:10px;" src="https://banner2.cleanpng.com/20180520/kp/kisspng-puppet-technology-association-of-oregon-privately-5b01b818a3aa55.8481701415268393206704.jpg" />
 
+#
+
 <br />
 <br />       
      
