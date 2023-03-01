@@ -35,7 +35,7 @@ I'm a Data Scientist and Software Engineer, building my version of the digital w
 
 
 <details>
- <summary><h3>👨‍💻 iamqaasim's Coding Journey</h3></summary>
+ <summary># 👨‍💻 iamqaasim's Coding Journey</summary>
   At a young age I had a curious mind, I enjoyed building and creating things. My dream was to become an 'inventor'. This later matured into a passion for  Science, Technology. Initially I wanted to become an engineer of some sort, because its the closest thing to being an inventor. However my circumstances lead me towards pursuing a degree in Data Sciene instead. Althought analysing data is an insterest of mine I felt like there was something missing.
   
   <br />
@@ -50,3 +50,4 @@ I'm a Data Scientist and Software Engineer, building my version of the digital w
   <br />
   
   After joining this program I've learnt so much about how to write code, the application of programing, how computers work, the infrastructure behind the internet and much more. I intend to continue my journy forward in hopes to push towards the field of ML and AI development.
+</details>
