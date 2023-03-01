@@ -35,7 +35,7 @@ I'm a Data Scientist and Software Engineer, building my version of the digital w
 
 
 <details>
- <summary># 👨‍💻 iamqaasim's Coding Journey</summary>
+ <summary> <h1> 👨‍💻 iamqaasim's Coding Journey </h1> </summary>
   At a young age I had a curious mind, I enjoyed building and creating things. My dream was to become an 'inventor'. This later matured into a passion for  Science, Technology. Initially I wanted to become an engineer of some sort, because its the closest thing to being an inventor. However my circumstances lead me towards pursuing a degree in Data Sciene instead. Althought analysing data is an insterest of mine I felt like there was something missing.
   
   <br />
