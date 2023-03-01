@@ -1,4 +1,4 @@
-<h1 align="center">♟ Iamqaasim</h1>
+#♟ Iamqaasim
 **'Data Scientist & Software Enigineer'**
 
 Hello World!!! 👋 
