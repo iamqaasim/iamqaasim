@@ -23,10 +23,11 @@ I'm a Data Scientist and Software Engineer, building my version of the digital w
 <img align="left" alt="Puppet" width="30px" style="padding-right:10px;" src="https://banner2.cleanpng.com/20180520/kp/kisspng-puppet-technology-association-of-oregon-privately-5b01b818a3aa55.8481701415268393206704.jpg" /> <br/>
 
 <details>
-<summary> 📊 GitHub Stats: </summary>
-![](https://github-readme-stats.vercel.app/api?username=iamqaasim&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamqaasim&theme=nord&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamqaasim&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<summary> # 📊 GitHub Stats: </summary>
+ 
+     ![](https://github-readme-stats.vercel.app/api?username=iamqaasim&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
+     ![](https://github-readme-streak-stats.herokuapp.com/?user=iamqaasim&theme=nord&hide_border=true)<br/>
+     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamqaasim&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 </details>
 
 ## 🏆 GitHub Trophies
