@@ -29,7 +29,7 @@ I'm a Data Scientist and Software Engineer, building my version of the digital w
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iamqaasim&theme=nord&no-frame=false&no-bg=false&margin-w=5)
+![](https://github-profile-trophy.vercel.app/?username=iamqaasim&theme=nord&no-frame=false&no-bg=false&margin-w=10)
 
 
 <details>
