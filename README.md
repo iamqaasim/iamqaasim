@@ -2,7 +2,7 @@
 
 **`Data Scientist & Software Enigineer`**
 
-<img align="right" alt="GIF" src="[https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&psig=AOvVaw2Mgxw1PVgU3S5vcCB1kYb7&ust=1677792335805000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCICmy_vUu_0CFQAAAAAdAAAAABAE)" width="500" height="250" />  <br/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="250" />  <br/>
 Hello World!!! 👋 
 
 I'm a Data Scientist and Software Engineer, building my version of the digital world one program at a time. All coding projects are built from the ground up, from planning and testing all the way to solving real-world problems with code. My passion for creating and analysing lead me to where I am now and hopefully it will progress me closer towards the field of Machine Learining and Artificial Intelligence. <br/>
