@@ -22,6 +22,7 @@ I'm a Data Scientist and Software Engineer, building my version of the digital w
 <img align="left" alt="PyCharm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 <img align="left" alt="Puppet" width="30px" style="padding-right:10px;" src="https://banner2.cleanpng.com/20180520/kp/kisspng-puppet-technology-association-of-oregon-privately-5b01b818a3aa55.8481701415268393206704.jpg" /> <br/>
 
+<details>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iamqaasim&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamqaasim&theme=nord&hide_border=true)<br/>
@@ -29,25 +30,15 @@ I'm a Data Scientist and Software Engineer, building my version of the digital w
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iamqaasim&theme=nord&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=iamqaasim&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
+</details>
 
 <details>
- <summary> <h1> 👨‍💻 iamqaasim's Coding Journey </h1> </summary>
-  At a young age I had a curious mind, I enjoyed building and creating things. My dream was to become an 'inventor'. This later matured into a passion for  Science, Technology. Initially I wanted to become an engineer of some sort, because its the closest thing to being an inventor. However my circumstances lead me towards pursuing a degree in Data Sciene instead. Althought analysing data is an insterest of mine I felt like there was something missing.
+<summary> <h1> 👨‍💻 iamqaasim's Coding Journey </h1> </summary>
+  At a young age I had a curious mind, I enjoyed building and creating things. My dream was to become an 'inventor'. This later matured into a passion for  Science, Technology. Initially I wanted to become an engineer of some sort, because its the closest thing to being an inventor. However my circumstances lead me towards pursuing a degree in Data Sciene instead. Althought analysing data is an insterest of mine I felt like there was something missing. <br />
   
-  <br />
-  <br />
+  During the end of my degree the pandemic hit and I was stuck at home, with lots of free time. So instead of sitting around doing nothing I decided to teach myself coding, but as a complete stranger to programing I had no clue where to start. I talked to some of my Computer Science friends and I ended up learning python through YouTube videos and free online courses. Ater which I picked up a secondary interest in machine Learning (ML) as as Artificial intelligence (AI). <br />
   
-  During the end of my degree the pandemic hit and I was stuck at home, with lots of free time. So instead of sitting around doing nothing I decided to teach myself coding, but as a complete stranger to programing I had no clue where to start. I talked to some of my Computer Science friends and I ended up learning python through YouTube videos and free online courses. Ater which I picked up a secondary interest in machine Learning (ML) as as Artificial intelligence (AI).
+  In pursuit of this new found interests I realised that the thing I was missing was having an outlet for my creative side. Within a few weeks I used python skills to help me in my studies, which improved my marks exponentially. After which I was so eager to learn more that I considered pursuing a 2nd degree in Computer Science or Robotics, but then I came across an online Software Engineering programe. It was a free year program which I thought was a good idea to do part time while I work. I applied and got accepted the same day. <br />
   
-  <br />
-  
-  In pursuit of this new found interests I realised that the thing I was missing was having an outlet for my creative side. Within a few weeks I used python skills to help me in my studies, which improved my marks exponentially. After which I was so eager to learn more that I considered pursuing a 2nd degree in Computer Science or Robotics, but then I came across an online Software Engineering programe. It was a free year program which I thought was a good idea to do part time while I work. I applied and got accepted the same day.
-  
-  <br />
-  
-  After joining this program I've learnt so much about how to write code, the application of programing, how computers work, the infrastructure behind the internet and much more. I intend to continue my journy forward in hopes to push towards the field of ML and AI development.
+  After joining this program I've learnt so much about how to write code, the application of programing, how computers work, the infrastructure behind the internet and much more. I intend to continue my journy forward in hopes to push towards the field of ML and AI development. <br />
 </details>
