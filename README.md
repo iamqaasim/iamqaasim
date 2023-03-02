@@ -32,7 +32,7 @@ Hello World!!! 👋
 ![Git](https://img.shields.io/badge/git-%2300f.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-3670A0.svg?style=for-the-badge&logo=pycharm&logoColor=white)
-![VSCode](https://img.shields.io/badge/vscode-%23323330.svg?style=for-the-badge&logo=vs&logoColor=white)
+![VSCode](https://img.shields.io/badge/vscode-%23323330.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Puppet](https://img.shields.io/badge/puppet-%23E34F26.svg?style=for-the-badge&logo=puppet&logoColor=white)
 ![Numpy](https://img.shields.io/badge/numpy-%2300f.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
