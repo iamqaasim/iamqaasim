@@ -32,19 +32,9 @@ Hello World!!! 👋
 ![Git](https://img.shields.io/badge/git-%2300f.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-3670A0.svg?style=for-the-badge&logo=pycharm&logoColor=white)
-![VSCode](https://img.shields.io/badge/vscode-%23323330.svg?style=for-the-badge&logo=vsc&logoColor=white)
+![VSCode](https://img.shields.io/badge/vscode-%23323330.svg?style=for-the-badge&logo=vs&logoColor=white)
 ![Puppet](https://img.shields.io/badge/puppet-%23E34F26.svg?style=for-the-badge&logo=puppet&logoColor=white)
 ![Numpy](https://img.shields.io/badge/numpy-%2300f.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-# 🛠 Additional Tools:
-
-
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
-<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-<img align="left" alt="VScode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="PyCharm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-<img align="left" alt="Puppet" width="30px" style="padding-right:10px;" src="https://banner2.cleanpng.com/20180520/kp/kisspng-puppet-technology-association-of-oregon-privately-5b01b818a3aa55.8481701415268393206704.jpg" /> <br/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iamqaasim&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
