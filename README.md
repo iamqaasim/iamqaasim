@@ -30,6 +30,7 @@ Hello World!!! 👋
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 # 🛠 Additional Tools:
+![Git]([https://img.shields.io/badge/mysql-%2300f.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)?style=for-the-badge&logo=mysql&logoColor=white)
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
