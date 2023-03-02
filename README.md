@@ -4,7 +4,7 @@
 **`Data Scientist & Software Enigineer`**
 
 Hello World!!! 👋 
-<p style='text-align: centre;'> As a dynamic and innovative Data Scientist and Software Engineer, I'm on a mission to create an electrifying digital world that will blow your mind, one exhilarating program at a time! I absolutely enjoy taking on coding projects from scratch, diving headfirst into brainstorming, planning and utilizing modern coding practices to overcome real-world challenges. My ambition for creating and analyzing has propelled me to where I am today and continues to drive me closer towards the thrilling frontier of Machine Learning and Artificial Intelligence! </p>
+<p style='text-align: justify;'> As a dynamic and innovative Data Scientist and Software Engineer, I'm on a mission to create an electrifying digital world that will blow your mind, one exhilarating program at a time! I absolutely enjoy taking on coding projects from scratch, diving headfirst into brainstorming, planning and utilizing modern coding practices to overcome real-world challenges. My ambition for creating and analyzing has propelled me to where I am today and continues to drive me closer towards the thrilling frontier of Machine Learning and Artificial Intelligence! </p>
 <br/>
 
 
