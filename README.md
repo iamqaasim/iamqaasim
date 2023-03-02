@@ -34,7 +34,7 @@ Hello World!!! 👋
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-3670A0.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 ![VSCode](https://img.shields.io/badge/git-%2300f.svg?style=for-the-badge&logo=vscode&logoColor=white)
-![Puppet](https://img.shields.io/badge/git-%2300f.svg?style=for-the-badge&logo=puppet&logoColor=white)
+![Puppet](https://img.shields.io/badge/puppet-%23E34F26.svg?style=for-the-badge&logo=puppet&logoColor=white)
 ![git](https://img.shields.io/badge/git-%2300f.svg?style=for-the-badge&logo=puppet&logoColor=white)
 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
