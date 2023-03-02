@@ -6,7 +6,7 @@
 
 Hello World!!! 👋 
 
-I'm a Data Scientist and Software Engineer, building my version of the digital world one program at a time. All coding projects are built from the ground up, from planning and testing all the way to solving real-world problems with code. My passion for creating and analysing lead me to where I am now and hopefully it will progress me closer towards the field of Machine Learining and Artificial Intelligence. <br/>
+As a dynamic and innovative Data Scientist and Software Engineer, I'm on a mission to create an electrifying digital world that will blow your mind, one exhilarating program at a time! I absolutely enjoy taking on coding projects from scratch, diving headfirst into brainstorming, planning and utilizing modern coding practices to overcome real-world challenges. My ambition for creating and analyzing has propelled me to where I am today and continues to drive me closer towards the thrilling frontier of Machine Learning and Artificial Intelligence!<br/>
 
 
      
