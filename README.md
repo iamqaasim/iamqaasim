@@ -1,10 +1,7 @@
 # ♟ Iamqaasim
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="400" /> 
-
-
 **`Data Scientist & Software Enigineer`**
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="400" /> 
 
 Hello World!!! 👋 
 
