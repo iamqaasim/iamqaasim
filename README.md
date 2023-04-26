@@ -51,11 +51,11 @@ As a dynamic and innovative Data Scientist and Software Engineer, I am always on
 
 <details>
 <summary> <h2> 👨‍💻 iamqaasim's Coding Journey </h2> </summary>
-  At a young age I had a curious mind, I enjoyed building and creating things. My dream was to become an 'inventor'. This later matured into a passion for  Science, Technology. Initially I wanted to become an engineer of some sort, because its the closest thing to being an inventor. However my circumstances lead me towards pursuing a degree in Data Sciene instead. Althought analysing data is an insterest of mine I felt like there was something missing. <br /> <br />
-  
-  During the end of my degree the pandemic hit and I was stuck at home, with lots of free time. So instead of sitting around doing nothing I decided to teach myself coding, but as a complete stranger to programing I had no clue where to start. I talked to some of my Computer Science friends and I ended up learning python through YouTube videos and free online courses. Ater which I picked up a secondary interest in machine Learning (ML) as as Artificial intelligence (AI). <br />
-  
-  In pursuit of this new found interests I realised that the thing I was missing was having an outlet for my creative side. Within a few weeks I used python skills to help me in my studies, which improved my marks exponentially. After which I was so eager to learn more that I considered pursuing a 2nd degree in Computer Science or Robotics, but then I came across an online Software Engineering programe. It was a free year program which I thought was a good idea to do part time while I work. I applied and got accepted the same day. <br />
-  
-  After joining this program I've learnt so much about how to write code, the application of programing, how computers work, the infrastructure behind the internet and much more. I intend to continue my journy forward in hopes to push towards the field of ML and AI development. <br />
+  From a young age, I possessed a curious mind and enjoyed building and creating things. My aspirations initially centered around becoming an inventor, which later developed into a passion for science and technology. Initially, I wanted to pursue engineering since it was the closest field to invention. However, due to circumstances, I ended up pursuing a degree in Data Science instead. While analyzing data intrigued me, I felt like something was missing. <br />
+
+  Towards the end of my degree, the pandemic struck and I found myself with plenty of free time. Rather than waste it, I decided to teach myself coding. However, being a complete novice to programming, I had no idea where to begin. Thankfully, some of my Computer Science friends provided guidance and I learned Python through YouTube videos and free online courses. Through this process, I developed a secondary interest in machine learning (ML) and artificial intelligence (AI). <br />
+
+  In the pursuit of these newfound interests, I realized that I lacked an outlet for my creative side. Within a few weeks, I used my Python skills to enhance my studies, which led to exponential improvements in my marks. This spurred me to seek out further knowledge, even to the point of considering pursuing a second degree in Computer Science or Robotics. But, then I discovered an online Software Engineering program that offered a free year-long course. I applied and was accepted on the same day. <br />
+
+  Since joining this program, I have gained extensive knowledge about programming, its applications, how computers work, the internet's infrastructure, and much more. Moving forward, I intend to continue my journey and hope to specialize in the field of ML and AI development. <br />
 </details>
