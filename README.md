@@ -51,7 +51,7 @@ As a dynamic and innovative Data Scientist and Software Engineer, I am always on
 
 <details>
 <summary> <h2> 👨‍💻 iamqaasim's Coding Journey </h2> </summary>
-  From a young age, I possessed a curious mind and enjoyed building and creating things. My aspirations initially centered around becoming an inventor, which later developed into a passion for science and technology. Initially, I wanted to pursue engineering since it was the closest field to invention. However, due to circumstances, I ended up pursuing a degree in Data Science instead. While analyzing data intrigued me, I felt like something was missing. <br />
+  From a young age, I possessed a curious mind and enjoyed building and creating things. My aspirations initially centered around becoming an inventor, which later developed into a passion for science and technology. Initially, I wanted to pursue engineering since it was the closest field to invention. However, due to circumstances, I ended up pursuing a degree in Data Science instead. While analyzing data intrigued me, I felt like something was missing. <br /> <br />
 
   Towards the end of my degree, the pandemic struck and I found myself with plenty of free time. Rather than waste it, I decided to teach myself coding. However, being a complete novice to programming, I had no idea where to begin. Thankfully, some of my Computer Science friends provided guidance and I learned Python through YouTube videos and free online courses. Through this process, I developed a secondary interest in machine learning (ML) and artificial intelligence (AI). <br />
 
