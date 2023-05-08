@@ -8,48 +8,48 @@ As a dynamic and innovative Data Scientist and Software Engineer, I am always on
 <br/>
      
 # 💻 Tech Stack:
-## Frontend
+### Frontend
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 
 
-## Backend
+### Backend
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## Frameworks
+### Frameworks
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Node.JS](https://img.shields.io/badge/Node.JS-%2344A833?style=for-the-badge&logo=Node.js&logoColor=ffdd54)
 ![Typescript](https://img.shields.io/badge/typescript-3670A0?style=for-the-badge&logo=typescript&logoColor=ffdd54)
 
-## Servers
+### Servers
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Puppet](https://img.shields.io/badge/puppet-%23E34F26.svg?style=for-the-badge&logo=puppet&logoColor=white)
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) 
 
-# Databases
+### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2344A833.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 
-## Version control
+### Version control
 ![Git](https://img.shields.io/badge/git-%2300f.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 
-## Operating systems
+### Operating systems
 ![Linux OS](https://img.shields.io/badge/Linux-%23323330.svg?style=for-the-badge&logo=linux&logoColor=white) 
 
-## Editors and IDEs
+### Editors and IDEs
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![JupyterNotebook](https://img.shields.io/badge/JupyterNotebook-%2344A833.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-3670A0.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 ![VSCode](https://img.shields.io/badge/vscode-%23323330.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-3670A0.svg?style=for-the-badge&logo=replit&logoColor=white)
 
-## Analytics
+### Analytics
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) 
 
