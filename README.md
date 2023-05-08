@@ -50,7 +50,7 @@ As a dynamic and innovative Data Scientist and Software Engineer, I am always on
 
 ### Editors and IDEs
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![JupyterNotebook](https://img.shields.io/badge/JupyterNotebook-%2344A833.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![JupyterNotebook](https://img.shields.io/badge/JupyterNotebook-%23E34F26.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-3670A0.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 ![VSCode](https://img.shields.io/badge/vscode-%23323330.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-%23563D7C.svg?style=for-the-badge&logo=replit&logoColor=white)
