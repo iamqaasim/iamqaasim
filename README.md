@@ -24,7 +24,7 @@ As a dynamic and innovative Data Scientist and Software Engineer, I am always on
 ![Node.JS](https://img.shields.io/badge/Node.JS-%2344A833?style=for-the-badge&logo=Node.js&logoColor=ffdd54)
 ![Typescript](https://img.shields.io/badge/typescript-3670A0?style=for-the-badge&logo=typescript&logoColor=ffdd54)
 
-### API
+### APIs
 ![POSTMAN](https://img.shields.io/badge/POSTMAN-%23E34F26.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Databases
