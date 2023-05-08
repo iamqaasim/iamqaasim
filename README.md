@@ -35,6 +35,10 @@ As a dynamic and innovative Data Scientist and Software Engineer, I am always on
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 
+### Analytics
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
+![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) 
+
 ### Version control
 ![Git](https://img.shields.io/badge/git-%2300f.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white)
@@ -48,11 +52,6 @@ As a dynamic and innovative Data Scientist and Software Engineer, I am always on
 ![PyCharm](https://img.shields.io/badge/pycharm-3670A0.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 ![VSCode](https://img.shields.io/badge/vscode-%23323330.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-3670A0.svg?style=for-the-badge&logo=replit&logoColor=white)
-
-### Analytics
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
-![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) 
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iamqaasim&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
