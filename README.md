@@ -53,7 +53,7 @@ As a dynamic and innovative Data Scientist and Software Engineer, I am always on
 ![JupyterNotebook](https://img.shields.io/badge/JupyterNotebook-%2344A833.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-3670A0.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 ![VSCode](https://img.shields.io/badge/vscode-%23323330.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-%23000.svg?style=for-the-badge&logo=replit&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-%23563D7C.svg?style=for-the-badge&logo=replit&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iamqaasim&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
