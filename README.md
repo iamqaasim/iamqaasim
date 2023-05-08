@@ -24,10 +24,8 @@ As a dynamic and innovative Data Scientist and Software Engineer, I am always on
 ![Node.JS](https://img.shields.io/badge/Node.JS-%2344A833?style=for-the-badge&logo=Node.js&logoColor=ffdd54)
 ![Typescript](https://img.shields.io/badge/typescript-3670A0?style=for-the-badge&logo=typescript&logoColor=ffdd54)
 
-### Servers
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-![Puppet](https://img.shields.io/badge/puppet-%23E34F26.svg?style=for-the-badge&logo=puppet&logoColor=white)
-![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) 
+### API
+![POSTMAN](https://img.shields.io/badge/POSTMAN-%23E34F26.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2344A833.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -37,6 +35,11 @@ As a dynamic and innovative Data Scientist and Software Engineer, I am always on
 ### Analytics
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) 
+
+### Servers
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+![Puppet](https://img.shields.io/badge/puppet-%23E34F26.svg?style=for-the-badge&logo=puppet&logoColor=white)
+![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) 
 
 ### Operating systems
 ![Linux OS](https://img.shields.io/badge/Linux-%23323330.svg?style=for-the-badge&logo=linux&logoColor=white) 
