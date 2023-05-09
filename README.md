@@ -57,9 +57,9 @@ As a dynamic and innovative Data Scientist and Software Engineer, I am always on
 ![Replit](https://img.shields.io/badge/Replit-%23563D7C.svg?style=for-the-badge&logo=replit&logoColor=white)
 
 ### Future learning
+- API
 - Python: Django
 - JavaScript: Angular
-- API
 - Cloud services: amazon Web Service (AWS), Google Cloud Platform (GCP)
 - Artificial intelligence (AI): Deep learning (DL), Machine learning (ML), Computer Vision, Neural Networks
 
