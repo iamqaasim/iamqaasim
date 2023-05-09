@@ -56,7 +56,7 @@ As a dynamic and innovative Data Scientist and Software Engineer, I am always on
 ![VSCode](https://img.shields.io/badge/vscode-%23323330.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-%23563D7C.svg?style=for-the-badge&logo=replit&logoColor=white)
 
-### Future learning
+### Future learning:
 - API
 - Python: Django
 - JavaScript: Angular
