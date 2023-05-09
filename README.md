@@ -56,6 +56,13 @@ As a dynamic and innovative Data Scientist and Software Engineer, I am always on
 ![VSCode](https://img.shields.io/badge/vscode-%23323330.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-%23563D7C.svg?style=for-the-badge&logo=replit&logoColor=white)
 
+### Future learning apth
+- Python: Django
+- JavaScript: Angular
+- API
+- Cloud services: amazon Web Service (AWS), Google Cloud Platform (GCP)
+- Artificial intelligence (AI): Deep learning (DL), Machine learning (ML), Computer Vision, Neural Networks
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iamqaasim&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamqaasim&theme=nord&hide_border=true)<br/>
