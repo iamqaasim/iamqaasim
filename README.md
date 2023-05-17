@@ -1,10 +1,10 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="400" /><br/>
 
 # ♟ Iamqaasim
-**`Data Scientist & Software Enigineer`**
+**`Data Analyst & Software Enigineer`**
 
 Hello World!!! 👋 
-As a dynamic and innovative Data Scientist and Software Engineer, I am always on the lookout for new challenges and opportunities to push my boundaries. I enjoy starting new projects from scratch, diving headfirst into brainstorming, planning, and utilizing modern coding practices to solve real-world problems. My passion for exploring the cutting-edge worlds of Machine Learning and Artificial Intelligence has been a driving force in my career, but I also relish the thrill of exploring new avenues and starting fresh initiatives. 
+As a Data analyst and Software Engineer, I am always on the lookout for new challenges and opportunities to push my boundaries. I enjoy starting new projects from scratch, diving headfirst into brainstorming, planning, and utilizing modern coding practices to solve real-world problems. My passion for exploring the cutting-edge worlds of Machine Learning and Artificial Intelligence has been a driving force in my career, but I also relish the thrill of exploring new avenues and starting fresh initiatives. 
 <br/>
      
 # 💻 Tech Stack:
@@ -61,7 +61,7 @@ As a dynamic and innovative Data Scientist and Software Engineer, I am always on
 - JavaScript: Angular
 - Dashboarding: Tableau, PowerBI
 - Cloud services: amazon Web Service (AWS), Google Cloud Platform (GCP)
-- Artificial intelligence (AI): Deep learning (DL), Machine learning (ML), Computer Vision, Neural Networks
+- Artificial intelligence (AI): Deep learning (DL), Machine learning (ML), Computer Vision, Neural Networks, etc
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iamqaasim&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
